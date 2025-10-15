@@ -585,7 +585,7 @@ typedef enum {
 * MIDI Control Maps *
 *********************
 */
-
+/*
 uint8_t MidiMapTemplate[256] = {
 
     MidiDataNone,   // 0 MidiBankSelect
@@ -987,6 +987,6 @@ uint8_t MidiMapMk3[256] = {
     MidiDataNone,   // 127 MidiPolyModeOn
     MidiDataNone,   // 128
 };
-
+*/
 
 #endif // MIDIDEFINES_H_
