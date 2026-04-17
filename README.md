@@ -1,3 +1,17 @@
+# Prelude to AudioPlatform
+
+Donald Swearingen was a musician, composer and freelance software programmer.
+
+I got to know Donald as a customer of ProtoSupplies.com.  Starting in late 2023 he was buying my various Teensy baseboards and doing different things with them like trying to cobble rotary encoders onto them and he would have questions on occasion.  He was creating software that needed specific hardware to run on and he wanted to be able to point people to the hardware that they could buy in order to cobble together a system.
+
+After getting to know Donald better, it came to light that he was battling stage 4 kidney cancer that had migrated to his lungs.  With the unknown amount of time he had left he was trying to create a body of audio-related open-source software to serve as a sort of legacy and I think also to help keep himself focused and occupied on something other than his medical condition.  
+
+We decided to create a joint project out of it.  I would create a hardware platform built to his requirements and he would create the software to run on it.  We had regular Zoom meetings so we could collaborate on the project as he went through both the good and the bad times.
+
+Through it all, he somehow stayed the course and completed what he felt was an initial releasable code base and set about creating documentation for it.   Unfortunately, Donald suddenly took a turn for the worse and he passed away on September 11, 2025, leaving the project incomplete.
+
+I am posting what I have to make good on a promise I made to Donald to make his software available for anyone that might find it useful. The software is well organized, but the documentation is lacking and is in the original form as he had left it.  I am not a musician, nor am I a programmer at the level needed to properly maintain or advance this code base, but hopefully someone will find it useful as a whole or for some of its parts or perhaps as a template to use for their own audio based project.
+
 # What is AudioPlatform?
 
 ![](/Documentation/Images/AudioPlatformPhotoImage.png)
